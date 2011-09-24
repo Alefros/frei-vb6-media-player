@@ -1,0 +1,62 @@
+Line 43: Class ACTIVESKINLibCtl.Skin of control Skin6 was not a loaded control class.
+Line 48: Class ACTIVESKINLibCtl.Skin of control Skin5 was not a loaded control class.
+Line 53: Class ACTIVESKINLibCtl.Skin of control Skin4 was not a loaded control class.
+Line 58: Class ACTIVESKINLibCtl.Skin of control Skin3 was not a loaded control class.
+Line 63: Class ACTIVESKINLibCtl.Skin of control Skin2 was not a loaded control class.
+Line 68: Class ComctlLib.Slider of control Slider1 was not a loaded control class.
+Line 81: Class ACTIVESKINLibCtl.SkinLabel of control skn_volume was not a loaded control class.
+Line 152: Class ACTIVESKINLibCtl.SkinLabel of control SkinLabel1 was not a loaded control class.
+Line 160: Class ACTIVESKINLibCtl.SkinLabel of control lbl_total was not a loaded control class.
+Line 168: Class ACTIVESKINLibCtl.SkinLabel of control SkinLabel2 was not a loaded control class.
+Line 176: Class ACTIVESKINLibCtl.SkinLabel of control lblTempo_corrido was not a loaded control class.
+Line 253: Class MSFlexGridLib.MSFlexGrid of control mfg_lista was not a loaded control class.
+Line 329: Class ACTIVESKINLibCtl.Skin of control Skin1 was not a loaded control class.
+Line 334: Class MSComDlg.CommonDialog of control CommonDialog1 was not a loaded control class.
+Line 45: The property name OleObjectBlob in Skin6 is invalid.
+Line 50: The property name OleObjectBlob in Skin5 is invalid.
+Line 55: The property name OleObjectBlob in Skin4 is invalid.
+Line 60: The property name OleObjectBlob in Skin3 is invalid.
+Line 65: The property name OleObjectBlob in Skin2 is invalid.
+Line 74: The property name _ExtentX in Slider1 is invalid.
+Line 75: The property name _ExtentY in Slider1 is invalid.
+Line 76: The property name _Version in Slider1 is invalid.
+Line 78: The property name Max in Slider1 is invalid.
+Line 79: The property name TickStyle in Slider1 is invalid.
+Line 84: The property name OleObjectBlob in skn_volume is invalid.
+Line 155: The property name OleObjectBlob in SkinLabel1 is invalid.
+Line 163: The property name OleObjectBlob in lbl_total is invalid.
+Line 171: The property name OleObjectBlob in SkinLabel2 is invalid.
+Line 179: The property name OleObjectBlob in lblTempo_corrido is invalid.
+Line 259: The property name _ExtentX in mfg_lista is invalid.
+Line 260: The property name _ExtentY in mfg_lista is invalid.
+Line 261: The property name _Version in mfg_lista is invalid.
+Line 262: The property name GridLines in mfg_lista is invalid.
+Line 263: The property name FormatString in mfg_lista is invalid.
+Line 331: The property name OleObjectBlob in Skin1 is invalid.
+Line 337: The property name _ExtentX in CommonDialog1 is invalid.
+Line 338: The property name _ExtentY in CommonDialog1 is invalid.
+Line 339: The property name _Version in CommonDialog1 is invalid.
+Line 45: The property name OleObjectBlob in Skin6 is invalid.
+Line 50: The property name OleObjectBlob in Skin5 is invalid.
+Line 55: The property name OleObjectBlob in Skin4 is invalid.
+Line 60: The property name OleObjectBlob in Skin3 is invalid.
+Line 65: The property name OleObjectBlob in Skin2 is invalid.
+Line 74: The property name _ExtentX in Slider1 is invalid.
+Line 75: The property name _ExtentY in Slider1 is invalid.
+Line 76: The property name _Version in Slider1 is invalid.
+Line 78: The property name Max in Slider1 is invalid.
+Line 79: The property name TickStyle in Slider1 is invalid.
+Line 84: The property name OleObjectBlob in skn_volume is invalid.
+Line 155: The property name OleObjectBlob in SkinLabel1 is invalid.
+Line 163: The property name OleObjectBlob in lbl_total is invalid.
+Line 171: The property name OleObjectBlob in SkinLabel2 is invalid.
+Line 179: The property name OleObjectBlob in lblTempo_corrido is invalid.
+Line 259: The property name _ExtentX in mfg_lista is invalid.
+Line 260: The property name _ExtentY in mfg_lista is invalid.
+Line 261: The property name _Version in mfg_lista is invalid.
+Line 262: The property name GridLines in mfg_lista is invalid.
+Line 263: The property name FormatString in mfg_lista is invalid.
+Line 331: The property name OleObjectBlob in Skin1 is invalid.
+Line 337: The property name _ExtentX in CommonDialog1 is invalid.
+Line 338: The property name _ExtentY in CommonDialog1 is invalid.
+Line 339: The property name _Version in CommonDialog1 is invalid.
